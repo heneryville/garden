@@ -1,0 +1,17 @@
+{
+    "name": "garden",
+    "private" : "true",
+    "main" : "./lib/garden.js",
+    "version" : "0.0.1",
+    "engine" : {
+        "node" : ">=0.8.*"
+    },
+    "debug": true,
+    "dependencies" : {
+        "dustjs-linkedin": "*"
+    },
+    "devDependencies" : {
+        "buster": "*",
+        "buster-win": "*"
+    }
+}
