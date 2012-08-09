@@ -8,7 +8,6 @@
     },
     "debug": true,
     "dependencies" : {
-        "dustjs-linkedin": "*"
     },
     "devDependencies" : {
         "buster": "*",
